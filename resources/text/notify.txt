@@ -1,0 +1,8 @@
+1
+|||
+The Scouse Build Update Notifications.
+
+Builds Are Out! 
+Click 'FRESH INSTALL'! Once comepleted, Click 'Force Close'
+and then re-open KODI and you should be good to go.
+
