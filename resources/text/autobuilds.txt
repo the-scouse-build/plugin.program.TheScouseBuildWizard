@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/the-scouse-build/master/_zip/plugin.progr
 
 name="The Scouse AIO Build"
 version="1.0"
-url="https://raw.githubusercontent.com/the-scouse-build/builds/master/TheScouseBuild-test.zip"
+url="https://raw.githubusercontent.com/the-scouse-build/builds/master/TheScouseBuild.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
