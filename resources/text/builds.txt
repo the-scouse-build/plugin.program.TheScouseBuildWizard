@@ -1,6 +1,6 @@
 name="The Scouse AIO Build"
 version="1.0"
-url="https://github.com/the-scouse-build/builds/raw/master/TheScouseBuild.zip"
+url="https://docs.google.com/uc?export=download&confirm=M-4s&id=1twLh4S6iVnp6yrc1F-30lkYuskUi677g"
 minor="http://"
 gui="http://"
 kodi="18.0"
